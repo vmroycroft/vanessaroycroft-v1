@@ -1,0 +1,52 @@
+body {
+	background-color: #f1f1f1;
+	position: relative;
+}
+
+a {
+	color: #ffffff;
+}
+a:focus {
+	outline: none;
+}
+a:focus,
+a:hover {
+	color: #ffffff;
+}
+
+.navbar-default {
+	background-color: #dccfd7;
+	border-color: #cec3ca;
+}
+
+.jumbotron {
+	background-color: #a2a2a2;
+	background-image: url('images/wild-flowers.png');
+}
+
+.section .content {
+	margin-left: 25px;
+}
+.section:not(:first-child) {
+	margin-top: 20px;
+}
+
+.list-group-item {
+	background-color: #dccfd7;
+	border-color: #cec3ca;
+}
+.list-group-item:hover {
+	background-color: #cec3ca;
+}
+
+#skills .list-group {
+	margin-top: 20px;
+}
+
+#contact {
+	background-color: #848484;
+	background-image: url('images/tree-bark.png');
+	font-size: 21px;
+	text-align: center;
+	padding: 25px 0px;
+}
