@@ -48,5 +48,6 @@ a:hover {
 	background-image: url('images/tree-bark.png');
 	font-size: 21px;
 	text-align: center;
-	padding: 25px 0px;
+	height: 100px;
+	width: 100%;
 }
